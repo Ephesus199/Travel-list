@@ -2,7 +2,7 @@
 
 A small React app for tracking items to pack for a trip. This project was built as part of a React tutorial and demonstrates component-driven UI, state management with hooks, and a minimal Vite setup.
 
-##[LIVE DEMO](https://travel-list-lovat-rho.vercel.app/)
+**[LIVE DEMO](https://travel-list-lovat-rho.vercel.app/)**
 
 ## Features
 
